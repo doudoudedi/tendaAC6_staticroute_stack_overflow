@@ -8,7 +8,7 @@ Exploit Author: doudoudedi233@gmail.com
 
 Vendor Homepage: https://www.tenda.com.cn/default.html
 
-Hardware Link:https://www.tenda.com.cn/download/detail-2661.html
+Hardware Link:https://www.tenda.com.cn/download/detail-2661.html && https://www.tenda.com.cn/download/detail-2776.html 
 
 #### Describe
 
