@@ -20,9 +20,6 @@ Hardware Link:https://www.tenda.com.cn/download/detail-2661.html && https://www.
 
 follow up sub_77EC8
 
-<img src="./img/image-20210917121019246.png" alt="image-20210917121019246" style="zoom:50%;" />
-
-<img src="./img/image-20210917123041024.png" alt="image-20210917123041024" style="zoom:50%;" />
 
  	Therefore, a stack overflow vulnerability is generated, which can cover the return address 
 
