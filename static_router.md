@@ -12,7 +12,7 @@ Hardware Link:https://www.tenda.com.cn/download/detail-2661.html && https://www.
 
 #### Describe
 
-  In Tenda AC6 ,firemware is US_AC6V1.0BR_V15.03.05.16_multi_TD01 ,The httpd component does not limit the length of the post parameter when setting the static route in /goform/setstaticroutecfg, resulting in stack overflow covering the return address and code execution
+  In Tenda AC6 AC7, AC9,The httpd component does not limit the length of the post parameter when setting the static route in /goform/setstaticroutecfg, resulting in stack overflow covering the return address and code execution
 
 #### Detail
 
