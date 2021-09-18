@@ -30,9 +30,6 @@ follow up sub_77EC8
 
 
 
-<img src="./img/image-20210917121127321.png" alt="image-20210917121127321" style="zoom:50%;" />
-
-
 
 POC
 
